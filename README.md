@@ -1,29 +1,21 @@
-# LLMs-Accelearation
-Large Language Models' Paper List
-### **7. Efficiency**
-
-**Communication-Based:**  Improving efficiency by reducing model parameters transmission.
-
-**Hardware-Based:**  Improving efficiency by hardware acceleration (GPU, FPGA, etc.)
-
-**Algorithm-Based:**   Improving efficiency by accelerating model convergence rate (local training, model aggregation, client selection, etc.)
-
+## LLMs Accelearation Paper List
+### This list of papers is categorized by technology. A list categorized by conference will be added in the future.
 <table border=0 cellpadding=0 cellspacing=0 >
 	<col width="10%" style='mso-width-source:userset;mso-width-alt:26080'>
 	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
 	<col width="20%" style='mso-width-source:userset;mso-width-alt:10944'>
 	<col width="5%" style='mso-width-source:userset;mso-width-alt:6848'>
 	<tr height=19 style='height:14.25pt'>
-		<td class=xl6519452 width="10%" align="center">Taxonomy</td>
+		<td class=xl6519452 width="10%" align="center">Methodology</td>
 		<td class=xl6519452 width="65%" align="center">Papers</td>
-		<td class=xl6519452 width="20%" align="center">Techniques</td>
+		<td class=xl6519452 width="20%" align="center">Publication Venue/Affiliations</td>
 		<td class=xl6519452 width="5%" align="center">Materials</td>
 	</tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=8 height=152 class=xl6519452 style='height:85.5pt' align="center">Communication-Based</td>
-    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1909.07588.pdf">Communication-Efficient Distributed Learning via Lazily Aggregated Quantized Gradients</a></td>
-        <td class=xl6519452 align="center"><font size="2">Quantization</font></td>
-        <td class=xl6519452 align="center"></td>
+		<td rowspan=8 height=14.25 class=xl6519452 style='height:85.5pt' align="center">Quantization</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2019/hash/36ab62655fa81ce8735ce7cfdaf7c9e8-Abstract.html">SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/Vahe1994/SpQR">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9238427">Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning</a></td>
@@ -115,5 +107,3 @@ Large Language Models' Paper List
         <td class=xl6519452 align="center"></td>
 	</tr>
 </table>
-
-&nbsp; 
