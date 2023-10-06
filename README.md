@@ -1,4 +1,4 @@
-## LLMs Accelearation Paper List
+## LLMs Acceleration Paper List
 This list of papers is categorized by technology. A list categorized by conference will be added in the future.
 <table border=0 cellpadding=0 cellspacing=0 >
 	<col width="10%" style='mso-width-source:userset;mso-width-alt:26080'>
@@ -18,9 +18,9 @@ This list of papers is categorized by technology. A list categorized by conferen
 		<td class=xl6519452 align="center"><a href="https://github.com/Vahe1994/SpQR">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://ieeexplore.ieee.org/document/9238427">Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning</a></td>
-        <td class=xl6519452 align="center"><font size="2">Quantization</font></td>
-        <td class=xl6519452 align="center"></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2306.00978">AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
+		<td class=xl6519452 align="center"><a href="https://github.com/mit-han-lab/llm-awq">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.06023.pdf">Communication Efficient Federated Learning with Adaptive Quantization</a></td>
