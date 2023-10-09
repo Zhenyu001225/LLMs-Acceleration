@@ -94,7 +94,7 @@ This list of papers is categorized by technology. A list categorized by conferen
 		<td rowspan=2 height=95 class=xl6519452 style='height:85.5pt' align="center">Attention Pattern</td>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2309.17453">Efficient Streaming Language Models with Attention Sinks</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/mit-han-lab/streaming-llm">Code</a></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/mit-han-lab/streaming-llm">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2309.12307.pdf">LongLORA: Efficient Fine-tuning of Long Context Large Language Model</a></td>
