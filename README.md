@@ -23,9 +23,9 @@ This list of papers is categorized by technology. A list categorized by conferen
 		<td class=xl6519452 align="center"><a href="https://github.com/mit-han-lab/llm-awq">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2104.06023.pdf">Communication Efficient Federated Learning with Adaptive Quantization</a></td>
-        <td class=xl6519452 align="center"><font size="2">Quantization</font></td>
-        <td class=xl6519452 align="center"></td>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2210.17323">GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICLR 2023</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/IST-DASLab/gptq">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/1610.02132.pdf">QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding</a></td>
