@@ -64,7 +64,11 @@ This list of papers is categorized by technology. A list categorized by conferen
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=4 height=57 class=xl6519452 style='height:85.5pt' align="center">Sparsity</td>
+		<td rowspan=5 height=57 class=xl6519452 style='height:85.5pt' align="center">Sparsity</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2306.11695">Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
+        	<td class=xl6519452 align="center"><a href="https://github.com/princeton-nlp/LLM-Shearing">code</a></td>
+    </tr>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2306.11695">A Simple and Effective Pruning Approach for Large Language Models</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
         	<td class=xl6519452 align="center"><a href="https://github.com/locuslab/wanda">code</a></td>
