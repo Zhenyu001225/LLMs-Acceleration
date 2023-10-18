@@ -114,7 +114,7 @@ A list categorized by conference will be added in the future.
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=4 height=95 class=xl6519452 style='height:85.5pt' align="center">Architecture</td>
+		<td rowspan=3 height=95 class=xl6519452 style='height:85.5pt' align="center">Architecture-level</td>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2309.10285">Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity</a></td>
         <td class=xl6519452 align="center"><font size="2">VLDB 2024</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/AlibabaResearch/flash-llm">code</a></td>
@@ -125,13 +125,14 @@ A list categorized by conference will be added in the future.
         <td class=xl6519452 align="center"><a href="https://github.com/vllm-project/vllm">code</a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2303.06865">FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU</a></td>
-        <td class=xl6519452 align="center"><font size="2">ICML 2023</font></td>
-        <td class=xl6519452 align="center"><a href="https://github.com/FMInference/FlexGen">code</a></td>
-    </tr>
-	<tr height=19 style='height:14.25pt'>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d57c32e20fd0a7a302cb81d36e40d5-Abstract-Conference.html">FLASHATTENTION: Fast and Memory-Efficient Exact Attention with IO-Awareness</a></td>
         <td class=xl6519452 align="center"><font size="2">NeurIPS 2022</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/Dao-AILab/flash-attention">code</a></td>
+    </tr>
+	<tr height=19 style='height:14.25pt'>
+		<td rowspan=4 height=95 class=xl6519452 style='height:85.5pt' align="center">System-level</td>
+    	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2303.06865">FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU</a></td>
+        <td class=xl6519452 align="center"><font size="2">ICML 2023</font></td>
+        <td class=xl6519452 align="center"><a href="https://github.com/FMInference/FlexGen">code</a></td>
     </tr>
 </table>
