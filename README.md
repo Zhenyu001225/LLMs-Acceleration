@@ -1,7 +1,8 @@
 ## LLMs Acceleration Paper List
-This list of papers is categorized by technology. 
+Here is the list of papers categorized by technology. 
 
 A list categorized by conference will be added in the future.
+
 <table border=0 cellpadding=0 cellspacing=0 >
 	<col width="10%" style='mso-width-source:userset;mso-width-alt:26080'>
 	<col width="65%" style='mso-width-source:userset;mso-width-alt:26080'>
