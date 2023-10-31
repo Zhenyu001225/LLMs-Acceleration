@@ -98,7 +98,7 @@ A list categorized by conference will be added in the future.
         <td class=xl6519452></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
-		<td rowspan=2 height=95 class=xl6519452 style='height:85.5pt' align="center">Attention Pattern</td>
+		<td rowspan=3 height=95 class=xl6519452 style='height:85.5pt' align="center">Attention Pattern</td>
     	<td class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/abs/2309.17453">Efficient Streaming Language Models with Attention Sinks</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
         <td class=xl6519452 align="center"><a href="https://github.com/mit-han-lab/streaming-llm">code</a></td>
@@ -107,6 +107,12 @@ A list categorized by conference will be added in the future.
     	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2309.12307.pdf">LongLORA: Efficient Fine-tuning of Long Context Large Language Model</a></td>
         <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
 		<td class=xl6519452 align="center"><a href="https://github.com/dvlab-research/LongLoRA">code</a></td>
+    </tr>
+	</tr>
+	<tr height=19 style='height:14.25pt'>
+    	<td height=19 class=xl6519452 style='height:14.25pt' align="center"><a href="https://arxiv.org/pdf/2310.11960v1.pdf">Fast Multipole Attention: A Divide-and-Conquer Attention Mechanism for Long Sequences</a></td>
+        <td class=xl6519452 align="center"><font size="2">Arxiv 2023</font></td>
+		<td class=xl6519452 align="center"><a href=""></a></td>
     </tr>
 	<tr height=19 style='height:14.25pt'>
     	<td height=19 class=xl6519452 style='height:14.25pt'></td>
